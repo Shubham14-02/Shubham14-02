@@ -13,8 +13,8 @@ https://github.com/snehangsude
 
  <div align='center'>
  <h5>
-   - 😍 Interested : Data Science and Machine Learning<br><br>
-   - 🌱 Learning: Applied Machine Learning concepts 🔜 R 🔜 Julia
+   - 😍 Interested : Web Development, Data Science and Machine Learning<br><br>
+   - 🌱 Learning: web development and Machine learning
  </h5>
  </div>
 
