@@ -21,11 +21,12 @@ https://github.com/snehangsude
  <p>
    <a align= "center" href="https://github.com/Hiten1708">
  <div align='center'>
-     <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Hiten1708&theme=gruvbox&show_icons=true&count_private=true" />
+     <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Hiten1708&theme=chartreuse-dark&show_icons=true&count_private=true" />
  </div>
-<!--  <div align='center'>
-     <img alt="lang card" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hiten1708&theme=gruvbox">  
- </div> -->
+ <div align='center'>
+     <img alt="lang card" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hiten1708&theme=chartreuse-dark">  
+ </div>
+   
  </p>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Hiten1708&label=Views 👀&color=003638&style=flat" alt="Hitenkumar Patel" /> </p>
  <p align="center"> <a href="https://twitter.com/HitenPatel1708" target="blank"><img src="https://img.shields.io/twitter/follow/HitenPatel1708?logo=twitter&style=for-the-badge" alt="HitenPatel1708" /></a>
@@ -41,4 +42,5 @@ https://github.com/snehangsude
  <a href="https://www.linkedin.com/ca/hitenkumar-patel-79287b1a8" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Hitenkumar Patel" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  </div>
  <hr>
+
 
