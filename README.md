@@ -21,10 +21,10 @@ https://github.com/snehangsude
  <p>
    <a align= "center" href="https://github.com/Hiten1708">
  <div align='center'>
-     <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Hiten1708&theme=chartreuse-dark&show_icons=true&count_private=true" />
+     <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Hiten1708&theme=gotham&show_icons=true&count_private=true" />
  </div>
  <div align='center'>
-     <img alt="lang card" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hiten1708&theme=chartreuse-dark">  
+     <img alt="lang card" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hiten1708&theme=gotham">  
  </div>
    
  </p>
