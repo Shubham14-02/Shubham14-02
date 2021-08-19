@@ -23,9 +23,10 @@ https://github.com/snehangsude
  <div align='center'>
      <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Hiten1708&theme=gotham&show_icons=true&count_private=true" />
  </div>
- <div align='center'>
+    
+<!--  <div align='center'>
      <img alt="lang card" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hiten1708&theme=gotham">  
- </div>
+ </div> -->
    
  </p>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Hiten1708&label=Views 👀&color=003638&style=flat" alt="Hitenkumar Patel" /> </p>
