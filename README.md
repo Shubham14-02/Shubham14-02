@@ -3,7 +3,6 @@
 Inspired from:
 https://github.com/snehangsude
  --->
- 
 
  
  <h1 align="center">Hey! I'm Hiten <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
@@ -18,7 +17,7 @@ https://github.com/snehangsude
    - 🌱 Learning: Applied Machine Learning concepts 🔜 R 🔜 Julia
  </h5>
  </div>
-
+<!-- 
  <p>
    <a align= "center" href="https://github.com/Hiten1708">
  <div align='center'>
@@ -32,7 +31,8 @@ https://github.com/snehangsude
  <p align="center"> <a href="https://twitter.com/HitenPatel1708" target="blank"><img src="https://img.shields.io/twitter/follow/_snehangsu?logo=twitter&style=for-the-badge" alt="HitenPatel1708" /></a>
  </p>
 
-
+ -->
+ 
  <br><br>
  <hr>
  <h3 align="center">Connect with me:</h3>
