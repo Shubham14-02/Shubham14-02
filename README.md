@@ -23,8 +23,8 @@ https://github.com/snehangsude
 
 <p>
   <a href="https://github.com/Hiten1708">
-<div align='center'>
-    <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Hiten1708&theme=gotham&show_icons=true&count_private=true" />
+<div>
+    <img align='center' alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Hiten1708&theme=gotham&show_icons=true&count_private=true" />
 </div>
 </p>
 
