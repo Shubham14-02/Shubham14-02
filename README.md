@@ -36,10 +36,12 @@ https://github.com/snehangsude
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 
+<br><br>
 
 <p align='center'> <img align="center" src="https://komarev.com/ghpvc/?username=Hiten1708&label=Views 👀&color=003638&style=flat" alt="Hitenkumar Patel" /> </p>
 
 <br><br>
+
 <hr>
 <h3 >Connect with me:</h3>
 <div align="center">
