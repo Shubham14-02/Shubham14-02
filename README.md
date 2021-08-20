@@ -13,6 +13,9 @@ https://github.com/snehangsude
 
 <div align='center'>
 <h5>
+  Hello! My name is Hiten Patel. I am self-taught Python developer and Physics major at Brock University. I am from India and currently residing in St. Catharines. 
+</h5>
+<h5>
   - 😍 Interested : Web Development, Data Science and Machine Learning<br><br>
   - 🌱 Learning: web development and Machine learning
 </h5>
