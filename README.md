@@ -37,7 +37,7 @@ https://github.com/snehangsude
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 
 
-<p> <img align="center" src="https://komarev.com/ghpvc/?username=Hiten1708&label=Views 👀&color=003638&style=flat" alt="Hitenkumar Patel" /> </p>
+<p align='center'> <img align="center" src="https://komarev.com/ghpvc/?username=Hiten1708&label=Views 👀&color=003638&style=flat" alt="Hitenkumar Patel" /> </p>
 
 <br><br>
 <hr>
