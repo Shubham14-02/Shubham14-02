@@ -3,7 +3,7 @@
 Inspired from:
 https://github.com/snehangsude
  --->
- ![My Banner](images/abc.png)
+ ![My Banner](images/abc2.png)
 
 <h1 align="center">Hey! I'm Hiten <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
