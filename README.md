@@ -41,6 +41,5 @@
 </div>
 <hr>
 
-<p align="center">
-   ![image title](https://rushter.com/counter.svg)
-</p>
+![image title](https://rushter.com/counter.svg)
+
