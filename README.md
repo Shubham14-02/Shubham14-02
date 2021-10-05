@@ -42,5 +42,5 @@
 <hr>
 
 <p align="center">
-2.    ![image title](https://rushter.com/counter.svg)
-3.</p>
+   ![image title](https://rushter.com/counter.svg)
+</p>
