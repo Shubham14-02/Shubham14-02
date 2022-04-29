@@ -8,11 +8,11 @@
 
 <div>
 <h5>
-  Hello! My name is Hiten Patel. I am self-taught Python developer and Physics major at Brock University. I am from India and currently residing in St. Catharines. 
+  Hello! My name is Hiten Patel. I am self-taught Python developer and Physics major at Brock University.
 </h5>
 <h5>
   - 😍 Interested : Web Development, Data Science and Machine Learning<br><br>
-  - 🌱 Learning: Web development and Machine learning
+  - 🌱 Learning: Machine learning
 </h5>
 </div>
 
