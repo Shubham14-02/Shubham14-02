@@ -41,6 +41,14 @@
   "term": "3Y",
 }
 ```
+         
+         
+ 
+### I'd love to hear from you!
+[Website](https://hiten1708.github.io/)\
+[LinkedIn](https://www.linkedin.com/in/hitenkumar-patel-79287b1a8/)\
+[Email](mailto:hp19mx@brocku.ca)
+
 
 ![image title](https://rushter.com/counter.svg)
 
