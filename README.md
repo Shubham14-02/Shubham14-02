@@ -12,7 +12,7 @@
 </h5>
 <h5>
   - 😍 Interested : Web Development, Data Science and Machine Learning<br><br>
-  - 🌱 Learning: web development and Machine learning
+  - 🌱 Learning: Web development and Machine learning
 </h5>
 </div>
 
@@ -33,13 +33,14 @@
 
 <br><br>
 
-<hr>
-<h3 >Connect with me:</h3>
-<div align="center">
-<a href="https://twitter.com/HitenPatel1708" target="blank"><img src="https://image.flaticon.com/icons/png/512/1384/1384065.png" alt="HitenPatel1708" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/ca/hitenkumar-patel-79287b1a8" target="blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Hitenkumar Patel" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
-<hr>
+```json
+{
+  "name": "Hitenkumar Patel",
+  "program": "BSc in Physics",
+  "school1": "Brock University",
+  "term": "3Y",
+}
+```
 
 ![image title](https://rushter.com/counter.svg)
 
