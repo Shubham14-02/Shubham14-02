@@ -20,7 +20,7 @@
   "name": "Hitenkumar Patel",
   "program": "BSc in Physics",
   "school1": "Brock University",
-  "term": "3Y",
+  "year": "3",
 }
 ```
 
