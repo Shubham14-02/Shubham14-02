@@ -1,9 +1,16 @@
 ![My Banner](images/abc2.png)
 
-<h1 align = "center">Hey! Physics major and Software engineering aspirant <img src="gifs/wave.gif" 
+<h1 align = "center">
+         <img src="gifs/wave.gif" 
          alt="Waving hand animated gif"
          height="40"
-         width="40"/></h1>
+         width="40"/>
+         Physics major and Software engineering aspirant 
+         <img src="gifs/wave.gif" 
+         alt="Waving hand animated gif"
+         height="40"
+         width="40"/>
+</h1>
 
 
 ```python
