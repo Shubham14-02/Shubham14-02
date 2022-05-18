@@ -15,13 +15,6 @@
   - 🌱 Learning: Machine learning
 </h5>
 </div>
-
-<p>
-  <a href="https://github.com/Hiten1708">
-<div>
-    <img align='center' alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Hiten1708&theme=gotham&show_icons=true&count_private=true" />
-</div>
-</p>
          
 ![](https://activity-graph.herokuapp.com/graph?username=Hiten1708&theme=react-dark&hide_border=true&area=true)
 
