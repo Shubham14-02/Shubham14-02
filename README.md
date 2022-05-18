@@ -1,6 +1,6 @@
 ![My Banner](images/abc2.png)
 
-<h1>Hey! I'm Hiten <img src="gifs/wave.gif" 
+<h1 align = "center">Hey! Physics major and Software engineering aspirant <img src="gifs/wave.gif" 
          alt="Waving hand animated gif"
          height="40"
          width="40"/></h1>
@@ -23,6 +23,9 @@ except Exception as LifeProblems:
 ```
          
 ![](https://activity-graph.herokuapp.com/graph?username=Hiten1708&theme=rogue&hide_border=true&area=true)
+
+
+<br><br>
 
 <h2 align = "center"> Technologies & Tools </h2>
 
@@ -50,7 +53,9 @@ except Exception as LifeProblems:
   "term": "3Y",
 }
 ```
-         
+
+<br><br>
+
  <h2 align = "center"> I'd love to hear from you! </h2>
          
 <div align = "center">
