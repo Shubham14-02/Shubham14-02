@@ -13,6 +13,17 @@
 </h1>
 
 
+<br><br>
+
+```json
+{
+  "name": "Hitenkumar Patel",
+  "program": "BSc in Physics",
+  "school1": "Brock University",
+  "term": "3Y",
+}
+```
+
 ```python
 
 try:
@@ -50,16 +61,6 @@ except Exception as LifeProblems:
 <code> <img height="20" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"> </code>
 
 
-<br><br>
-
-```json
-{
-  "name": "Hitenkumar Patel",
-  "program": "BSc in Physics",
-  "school1": "Brock University",
-  "term": "3Y",
-}
-```
 
 <br><br>
 
