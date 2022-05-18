@@ -42,21 +42,20 @@
 }
 ```
          
+### I'd love to hear from you!
+         
 <div align = "center">
   
 <!--   [<img src="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://www.github.com/irsayvid)  -->
-  [<img src="https://img.shields.io/badge/facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/divyasri.darimisetti.5/)
-  [<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/divya-sri-darimisetti/)
-  [<img src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/irsayvid)
-  [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UC5F3-pLpVjL6a7IfSm1OttA)
-  [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/irs.ayvid/) 
+  [<img src="https://img.shields.io/badge/facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/hiten.patel.560272)
+  [<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hitenkumar-patel-79287b1a8/)
+  [<img src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/HarshP1409)
+  [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UC1M5FwzvNJbHZ4Lgk8zchYg)
+  [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/thehiten.hp/) 
 </div>
          
  
-### I'd love to hear from you!
-[Website](https://hiten1708.github.io/)\
-[LinkedIn](https://www.linkedin.com/in/hitenkumar-patel-79287b1a8/)\
-[Email](mailto:hp19mx@brocku.ca)
+
 
 
 ![image title](https://rushter.com/counter.svg)
