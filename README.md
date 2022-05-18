@@ -24,7 +24,7 @@ except Exception as LifeProblems:
          
 ![](https://activity-graph.herokuapp.com/graph?username=Hiten1708&theme=rogue&hide_border=true&area=true)
 
-### Technologies & Tools
+<div align = "center"> ## Technologies & Tools </div>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -51,7 +51,7 @@ except Exception as LifeProblems:
 }
 ```
          
-### I'd love to hear from you!
+ <div align = "center"> ## I'd love to hear from you! </div>
          
 <div align = "center">
   
