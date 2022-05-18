@@ -22,6 +22,8 @@
     <img align='center' alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Hiten1708&theme=gotham&show_icons=true&count_private=true" />
 </div>
 </p>
+         
+![](https://activity-graph.herokuapp.com/graph?username=Hiten1708&theme=react-dark&hide_border=true&area=true)
 
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
