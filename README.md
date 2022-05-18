@@ -6,15 +6,21 @@
          width="40"/></h1>
 
 
-<div>
-<h5>
-  Hello! My name is Hiten Patel. I am self-taught Python developer and Physics major at Brock University.
-</h5>
-<h5>
-  - 😍 Interested : Web Development, Data Science and Machine Learning<br><br>
-  - 🌱 Learning: Machine learning
-</h5>
-</div>
+```python
+
+try:
+    while True:
+        learnSomethingNew()
+    
+        if Bored:
+            learn(SoftwareDevelopment, MachineLearning)
+       
+except as e:
+    if e == "TooStressed":
+        relax(SketchPortraits)
+    else:
+        watch(anime)
+```
          
 ![](https://activity-graph.herokuapp.com/graph?username=Hiten1708&theme=rogue&hide_border=true&area=true)
 
