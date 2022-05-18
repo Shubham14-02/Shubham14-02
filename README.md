@@ -30,12 +30,12 @@ try:
     while True:
         learnSomethingNew()
     
-        if Bored:
+        if Bored():
             learn(SoftwareDevelopment, MachineLearning)
        
 except Exception as LifeProblems:
     if LifeProblems.whatHappened == Life.tooStressed:
-        relax(SketchPortraits)
+        relax(sketchPortraits)
     else:
         watch(anime)
 ```
