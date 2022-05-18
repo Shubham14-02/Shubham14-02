@@ -15,8 +15,8 @@ try:
         if Bored:
             learn(SoftwareDevelopment, MachineLearning)
        
-except as e:
-    if e == "TooStressed":
+except Exception as LifeProblems:
+    if LifeProblems.whatHappened == Life.tooStressed:
         relax(SketchPortraits)
     else:
         watch(anime)
