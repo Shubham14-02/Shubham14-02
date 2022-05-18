@@ -5,7 +5,7 @@
          alt="Waving hand animated gif"
          height="40"
          width="40"/>
-         Physics major and Software engineering aspirant 
+         HELLO !
          <img src="gifs/wave.gif" 
          alt="Waving hand animated gif"
          height="40"
