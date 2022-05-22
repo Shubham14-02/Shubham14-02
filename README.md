@@ -47,6 +47,8 @@ except Exception as LifeProblems:
 
 <h2 align = "center"> TECHNOLOGIES & TOOLS </h2>
 
+<div align = "center">
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -60,7 +62,7 @@ except Exception as LifeProblems:
 <code> <img height = "20" src="https://www.php.net/images/logos/new-php-logo.svg" > </code>
 <code> <img height="20" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"> </code>
 
-
+<div align = "center">
 
 <br><br>
 
