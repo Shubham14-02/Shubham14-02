@@ -35,9 +35,9 @@ try:
        
 except Exception as LifeProblems:
     if LifeProblems.whatHappened == Life.tooStressed:
-        relax(sketchPortraits)
+        relax(playGuitar)
     else:
-        watch(movies)
+        watch(TheOffice)
 ```
          
 ![](https://activity-graph.herokuapp.com/graph?username=Shubham14-02&theme=rogue&hide_border=true&area=true)
