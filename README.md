@@ -1,4 +1,4 @@
-![My Banner](images/abc2.png)
+<!-- ![My Banner](images/abc2.png) -->
 
 <h1 align = "center">
          <img src="gifs/wave.gif" 
@@ -17,8 +17,8 @@
 
 ```json
 {
-  "name": "Hitenkumar Patel",
-  "program": "BSc in Physics",
+  "name": "Shubham Amrelia",
+  "program": "BSc in Computer Science",
   "school": "Brock University",
   "year": "3",
 }
@@ -31,13 +31,13 @@ try:
         learnSomethingNew()
     
         if Bored():
-            learn(SoftwareDevelopment, MachineLearning)
+            learn( AI, Algorithms )
        
 except Exception as LifeProblems:
     if LifeProblems.whatHappened == Life.tooStressed:
         relax(sketchPortraits)
     else:
-        watch(anime)
+        watch(movies)
 ```
          
 ![](https://activity-graph.herokuapp.com/graph?username=Hiten1708&theme=rogue&hide_border=true&area=true)
@@ -66,21 +66,20 @@ except Exception as LifeProblems:
 
 <br><br>
 
- <h2 align = "center"> I'd love to hear from you! </h2>
+ <h2 align = "center"> I'd love to connect with you! </h2>
          
 <div align = "center">
   
 <!--   [<img src="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://www.github.com/irsayvid)  -->
-  [<img src="https://img.shields.io/badge/facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/hiten.patel.560272)
-  [<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hitenkumar-patel-79287b1a8/)
-  [<img src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/HarshP1409)
-  [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UC1M5FwzvNJbHZ4Lgk8zchYg)
-  [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/thehiten.hp/) 
+  <!-- [<img src="https://img.shields.io/badge/facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/hiten.patel.560272) -->
+  [<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shubham-amrelia/)
+  <!-- [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UC1M5FwzvNJbHZ4Lgk8zchYg) -->
+  [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/shubham.amrelia/) 
 </div>
          
  
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Hiten1708/count.svg" />
+  <img src="https://profile-counter.glitch.me/Shubham14-02/count.svg" />
 </p>
