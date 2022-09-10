@@ -1,4 +1,4 @@
-<!-- ![My Banner](images/abc2.png) -->
+![My Banner](images/abc.svg)
 
 <h1 align = "center">
          <img src="gifs/wave.gif" 
