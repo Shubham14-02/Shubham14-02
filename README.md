@@ -67,8 +67,8 @@
 - Finalist in *ICPC 2023*  
 - Contributor to open-source projects on *Kubernetes* and *Spring Boot*  
 
----
-<!-- ### *GitHub Stats ⭐*
+<!-- ---
+ ### *GitHub Stats ⭐*
 [![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubham14-02&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 -->
 ---
