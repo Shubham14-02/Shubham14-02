@@ -26,15 +26,15 @@
 | *Job Position*         | *Company*                | *Field*                     | *Location*            | *Work Period*        |  
 |---------------------------|----------------------------|-------------------------------|-------------------------|------------------------|  
 | *Teaching Assistant*   | *Brock University*            | Multivariate Statistics, RStudio, Programming | Toronto, ON         | Sep '23 - Mar '24   |  
-| *Software Developer Intern* | *Pride Mobility Inc*  | Data Processing, Computer Vision | Beamsville, ON              | Jan - Apr '22      |  
-| *Junior Developer Intern* | *Ministry of Transportation, Ontario* | Fullstack Development, Testing | Toronto, ON            | Sep - Dec '21     |  
+| *Software Developer Intern* | *Ontario Ministry of Transportation*  | Data Processing, Computer Vision | Beamsville, ON              | Jan - Apr '22      |  
+| *Junior Developer Intern* | *Ontario Ministry of Transportation* | Fullstack Development, Testing | Toronto, ON            | Sep - Dec '21     |  
 | *Junior Backend Engineer* | *Mortimer’s Fine Foods* | Real-Time Communication Tools | St. Catharines, ON           | Oct '20 - Mar '21      |  
 
 
 ---
 
 ### *Education 🎓*
-- *Bachelor of Science, Computer Science* (Minor in Statistics)  
+- *Bachelor of Science, Computer Science*  
   *Brock University* | May 2024 | GPA: 3.8  
   - *Relevant Coursework*:  
     Data Structures, Computer Architecture, Cloud Computing, Machine Learning, System Design, Robotics, Data Science, Operating Systems
