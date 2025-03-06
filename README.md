@@ -1,85 +1,79 @@
-![My Banner](images/abc.svg)
+![](https://komarev.com/ghpvc/?username=shubham14-02&color=36b812)<br>  
+![](https://img.shields.io/github/followers/shubham14-02?style=social)<br>  
+![](https://img.shields.io/github/stars/shubham14-02?style=social)<br>  
 
-<h1 align = "center">
-         <img src="gifs/wave.gif" 
-         alt="Waving hand animated gif"
-         height="40"
-         width="40"/>
-         HELLO !
-         <img src="gifs/wave.gif" 
-         alt="Waving hand animated gif"
-         height="40"
-         width="40"/>
-</h1>
+### Hi, my name is *Shubham Amrelia* 👋 and I’m passionate about *Software Engineering, Machine Learning, and Cloud Technologies*
 
+*Field of Interests*: Backend Development, Distributed Systems, Data Science, Kubernetes, and High-Performance Computing  
 
-<br><br>
+---
 
-```json
-{
-  "name": "Shubham Amrelia",
-  "program": "BSc in Computer Science",
-  "school": "Brock University",
-  "year": "3",
-}
-```
+### *Skills 🛠*
+- *Languages*:  
+  C, C++, Python, Java, JavaScript, Rust, Ruby, R  
+- *Databases*:  
+  MySQL, MongoDB  
+- *Frameworks*:  
+  Kubernetes, Node.js, TensorFlow, Spring Boot  
+- *Developer Tools*:  
+  Docker, Git, Jenkins, Google Cloud, AWS, Postman  
+- *Soft Skills*:  
+  Team Player, Leadership, Adaptability, Bias for Action  
 
-```python
+---
 
-try:
-    while True:
-        learnSomethingNew()
-    
-        if Bored():
-            learn( AI, Algorithms )
-       
-except Exception as LifeProblems:
-    if LifeProblems.whatHappened == Life.tooStressed:
-        relax(playGuitar)
-    else:
-        watch(TheOffice)
-```
-         
-![](https://activity-graph.herokuapp.com/graph?username=Shubham14-02&theme=rogue&hide_border=true&area=true)
+### *Work Experience 👔*
+| *Job Position*         | *Company*                | *Field*                     | *Location*            | *Work Period*        |  
+|---------------------------|----------------------------|-------------------------------|-------------------------|------------------------|  
+| *Teaching Assistant*   | *Brock University*            | Multivariate Statistics, RStudio, Programming | Toronto, ON         | 2022-04 — 2022-08   |  
+| *Software Developer Intern* | *Pride Mobility Inc*  | Data Processing, Computer Vision | Beamsville, ON              | 2022-01 — 2022-04      |  
+| *Junior Developer Intern* | *Ministry of Transportation, Ontario* | Fullstack Development, Testing | Toronto, ON            | 2021-04 — 2021-08      |  
+| *Junior Backend Engineer* | *Mortimer’s Fine Foods* | Real-Time Communication Tools | St. Catharines, ON           | 2020-10 — 2021-03      |  
 
 
-<br><br>
+---
 
-<h2 align = "center"> TECHNOLOGIES & TOOLS </h2>
+### *Education 🎓*
+- *Bachelor of Science, Computer Science* (Minor in Statistics)  
+  *Brock University* | May 2024 | GPA: 3.8  
+  - *Relevant Coursework*:  
+    Data Structures, Computer Architecture, Cloud Computing, Machine Learning, System Design, Robotics, Data Science, Operating Systems
 
-<div align = "center">
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height = "20" src = "https://icon-library.com/images/django-icon/django-icon-0.jpg"> </code>
-<code> <img height = "20" src="https://www.php.net/images/logos/new-php-logo.svg" > </code>
-<code> <img height="20" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"> </code>
+### *Highlighted Projects 🐾*
+- *[Parallel PageRank Algorithm](https://github.com/vinitudasi/pagerank-openMP)*  
+  Implemented in C++ using OpenMP for shared memory architectures; achieved a 43x throughput improvement.  
 
-<div align = "center">
+- *[Sentiment Analysis of Customer Reviews](https://github.com/vinitudasi/sentiment-analysis)*  
+  Developed an ML model using NLTK and TensorFlow; deployed the API on AWS Lambda.  
 
-<br><br>
+- *[Real-Time Data Analytics Platform](https://github.com/vinitudasi/Real_Time_Twitter_Trends_Analytics)*  
+  Built using Spark, Hadoop, and Apache Kafka; visualized insights with Tableau.  
 
- <h2 align = "center"> I'd love to connect with you! </h2>
-         
-<div align = "center">
-  
-<!--   [<img src="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://www.github.com/irsayvid)  -->
-  <!-- [<img src="https://img.shields.io/badge/facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/hiten.patel.560272) -->
-  [<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shubham-amrelia/)
-  <!-- [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UC1M5FwzvNJbHZ4Lgk8zchYg) -->
-  [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/shubham.amrelia/) 
-</div>
-         
- 
+---
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Shubham14-02/count.svg" />
-</p>
+### *Certifications 📜*
+- *AWS Certified Solutions Architect – Associate*  
+- *Advanced Kubernetes and CI/CD Pipelines*
+- *LambdaTest Software Testing Certificate*
+- *Career Essentials in GenAI by Microsoft*
+- *Career Essentials in Sofwtare Engineering By Microsoft* 
+
+---
+
+### *Achievements 🏆*
+- Winner of the *Brock Coding Contest*  
+- Finalist in *ICPC 2023*  
+- Contributor to open-source projects on *Kubernetes* and *Spring Boot*  
+
+---
+
+### *GitHub Stats ⭐*
+[![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubham14-02&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+
+---
+
+### *Connect With Me 📬*
+- *Email*: [amrelia.shubham@gmail.com](mailto:amrelia.shubham@gmail.com)  
+- *LinkedIn*: [linkedin.com/in/shubham-amrelia]([https://linkedin.com/in/vinitudasi](https://www.linkedin.com/in/shubham-amrelia/))
