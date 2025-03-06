@@ -42,13 +42,13 @@
 ---
 
 ### *Highlighted Projects 🐾*
-- *[Parallel PageRank Algorithm](https://github.com/vinitudasi/pagerank-openMP)*  
+- *[Parallel PageRank Algorithm](https://github.com/Shubham14-02/PageRank-Algo-OpenMP)*  
   Implemented in C++ using OpenMP for shared memory architectures; achieved a 43x throughput improvement.  
 
-- *[Sentiment Analysis of Customer Reviews](https://github.com/vinitudasi/sentiment-analysis)*  
+- *[Sentiment Analysis of Customer Reviews](https://github.com/Shubham14-02/Customer-Review-Sentiment-Analysis)*  
   Developed an ML model using NLTK and TensorFlow; deployed the API on AWS Lambda.  
 
-- *[Real-Time Data Analytics Platform](https://github.com/vinitudasi/Real_Time_Twitter_Trends_Analytics)*  
+- *[Real-Time Data Analytics Platform](https://github.com/Shubham14-02/Twitter-Trends-Analytics)*  
   Built using Spark, Hadoop, and Apache Kafka; visualized insights with Tableau.  
 
 ---
