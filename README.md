@@ -25,10 +25,10 @@
 ### *Work Experience 👔*
 | *Job Position*         | *Company*                | *Field*                     | *Location*            | *Work Period*        |  
 |---------------------------|----------------------------|-------------------------------|-------------------------|------------------------|  
-| *Teaching Assistant*   | *Brock University*            | Multivariate Statistics, RStudio, Programming | Toronto, ON         | 2022-04 — 2022-08   |  
-| *Software Developer Intern* | *Pride Mobility Inc*  | Data Processing, Computer Vision | Beamsville, ON              | 2022-01 — 2022-04      |  
-| *Junior Developer Intern* | *Ministry of Transportation, Ontario* | Fullstack Development, Testing | Toronto, ON            | 2021-04 — 2021-08      |  
-| *Junior Backend Engineer* | *Mortimer’s Fine Foods* | Real-Time Communication Tools | St. Catharines, ON           | 2020-10 — 2021-03      |  
+| *Teaching Assistant*   | *Brock University*            | Multivariate Statistics, RStudio, Programming | Toronto, ON         | Sep '23 - Mar '24   |  
+| *Software Developer Intern* | *Pride Mobility Inc*  | Data Processing, Computer Vision | Beamsville, ON              | Jan - Apr '22      |  
+| *Junior Developer Intern* | *Ministry of Transportation, Ontario* | Fullstack Development, Testing | Toronto, ON            | Sep - Dec '21     |  
+| *Junior Backend Engineer* | *Mortimer’s Fine Foods* | Real-Time Communication Tools | St. Catharines, ON           | Oct '20 - Mar '21      |  
 
 
 ---
